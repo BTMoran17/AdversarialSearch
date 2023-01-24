@@ -3,8 +3,7 @@
  Abdulrahman Abdulrahman, Brian Moran, Fares Easa, Khalid Masuod
  CS440
  11/5/20
- Please Email aa1684@scarletmail.rutgers.edu if you have any questions!
-
+ 
  Assignment 2:
  To run the Project, compile the Execv.java file, and run the resulting executable. You will be prompted by many options for the Agent, and then a board will appear and will allow you to move. You can move by clicking on the board and moving your white piece to another part of the board. The letters on the board represent the different pieces for each player, where red is the agent, and white could be the player or agent.
  
